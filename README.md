@@ -14,6 +14,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.easybatch/easybatch-core/badge.svg?style=flat)](http://search.maven.org/#artifactdetails|org.easybatch|easybatch-core|5.2.0|)
 [![Javadoc](https://www.javadoc.io/badge/org.easybatch/easybatch-core.svg)](http://www.javadoc.io/doc/org.easybatch/easybatch-core)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/j-easy/easy-batch)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fipropper%2Feasy-batch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fipropper%2Feasy-batch?ref=badge_shield)
 
 </div>
 
@@ -171,3 +172,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fipropper%2Feasy-batch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fipropper%2Feasy-batch?ref=badge_large)
